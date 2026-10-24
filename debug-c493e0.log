@@ -1,0 +1,139 @@
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1780416957144}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1780416957202}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1780416957750}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1780416957962}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1780416957972}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1780416958000}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":1,"requestRows":1},"timestamp":1780416958575}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1780416958762}
+{"sessionId":"c493e0","hypothesisId":"H5","location":"DatabaseHelper.showError","message":"addDonor","data":{"msg":"Duplicate entry 'javeria Ashraf-03475506026' for key 'uq_donor_name_phone'"},"timestamp":1780417009958}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1780466074987}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1780466075045}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1780466075591}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1780466075776}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1780466075786}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1780466075823}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":1,"requestRows":1},"timestamp":1780466076348}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1780466076573}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1780466215595}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1780466215643}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1780466216063}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1780466216208}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1780466216215}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1780466216238}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":1,"requestRows":1},"timestamp":1780466216593}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1780466216720}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1780466344373}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1780466344470}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1780466345161}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1780466345415}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1780466345422}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1780466345453}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":1,"requestRows":1},"timestamp":1780466346109}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1780466346304}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1780469859679}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1780469859762}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"createDB SQLException","data":{"sqlState":"08S01","msg":"Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server."},"timestamp":1780469860056}
+{"sessionId":"c493e0","hypothesisId":"H5","location":"DatabaseHelper.showError","message":"initDB-createDB","data":{"msg":"Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server."},"timestamp":1780469860057}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1780469860058}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1780469860392}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1780469860403}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1780469860517}
+{"sessionId":"c493e0","hypothesisId":"H5","location":"DatabaseHelper.showError","message":"getAllDonors","data":{"msg":"Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server."},"timestamp":1780469860891}
+{"sessionId":"c493e0","hypothesisId":"H5","location":"DatabaseHelper.showError","message":"getAllRequests","data":{"msg":"Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server."},"timestamp":1780469860894}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":0,"requestRows":0},"timestamp":1780469860896}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1780469861249}
+{"sessionId":"c493e0","hypothesisId":"H5","location":"DatabaseHelper.showError","message":"addDonor","data":{"msg":"Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server."},"timestamp":1780469920016}
+{"sessionId":"c493e0","hypothesisId":"H5","location":"DatabaseHelper.showError","message":"addDonor","data":{"msg":"Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server."},"timestamp":1780469923142}
+{"sessionId":"c493e0","hypothesisId":"H5","location":"DatabaseHelper.showError","message":"addDonor","data":{"msg":"Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server."},"timestamp":1780469923877}
+{"sessionId":"c493e0","hypothesisId":"H5","location":"DatabaseHelper.showError","message":"addDonor","data":{"msg":"Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server."},"timestamp":1780469924568}
+{"sessionId":"c493e0","hypothesisId":"H5","location":"DatabaseHelper.showError","message":"addDonor","data":{"msg":"Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server."},"timestamp":1780469924787}
+{"sessionId":"c493e0","hypothesisId":"H5","location":"DatabaseHelper.showError","message":"addDonor","data":{"msg":"Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server."},"timestamp":1780469928013}
+{"sessionId":"c493e0","hypothesisId":"H5","location":"DatabaseHelper.showError","message":"addDonor","data":{"msg":"Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server."},"timestamp":1780469928571}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1783688332777}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1783688332880}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1783688334200}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1783688334608}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1783688334626}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1783688334691}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":5,"requestRows":2},"timestamp":1783688335595}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1783688335979}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1783688345817}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1783688345894}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1783688347074}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1783688347250}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1783688347262}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1783688347308}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":5,"requestRows":2},"timestamp":1783688347880}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1783688348109}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1785219641676}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1785219641762}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1785219643048}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1785219643461}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1785219643476}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1785219643566}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":5,"requestRows":2},"timestamp":1785219644436}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1785219644748}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1787559659262}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1787559659363}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1787559661215}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1787559661627}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1787559661637}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1787559661703}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":5,"requestRows":2},"timestamp":1787559662333}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1787559662602}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1787559670707}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1787559670754}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1787559671462}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1787559671572}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1787559671579}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1787559671602}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":5,"requestRows":2},"timestamp":1787559671931}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1787559672064}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1787644780313}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1787644780402}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1787644780462}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1787644780553}
+{"sessionId":"c493e0","hypothesisId":"H5","location":"DatabaseHelper.showError","message":"initDB-functions-triggers","data":{"msg":"Trigger does not exist"},"timestamp":1787644781285}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1787644781383}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1787644781604}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1787644781695}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1787644781705}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1787644781756}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1787644781784}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1787644781794}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1787644781830}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":5,"requestRows":2},"timestamp":1787644782416}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":5,"requestRows":2},"timestamp":1787644782419}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1787644782687}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1787644782692}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"main started","data":{},"timestamp":1788635057035}
+{"sessionId":"c493e0","hypothesisId":"H1","location":"DatabaseHelper.initDB","message":"MySQL driver class loaded","data":{},"timestamp":1788635057237}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:main","message":"initDB returned","data":{},"timestamp":1788635059359}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"EDT runnable start","data":{},"timestamp":1788635059914}
+{"sessionId":"c493e0","hypothesisId":"H2","location":"BloodBankUI.java:28","message":"static init past line 28 TEXT_MUTED","data":{"textMutedDefined":true},"timestamp":1788635059958}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor start","data":{},"timestamp":1788635060150}
+{"sessionId":"c493e0","hypothesisId":"H3","location":"BloodBankUI.java:constructor","message":"constructor done after refresh","data":{"donorRows":5,"requestRows":2},"timestamp":1788635061364}
+{"sessionId":"c493e0","hypothesisId":"H4","location":"Main.java:invokeLater","message":"BloodBankUI visible","data":{},"timestamp":1788635061695}
